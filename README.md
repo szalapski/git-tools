@@ -1,9 +1,9 @@
 ## Patrick Szalapski's handy Git batch files
 
-To get these scripts working well, I suggest you clone it to c:\gittools, then 
+To get these scripts working well, I suggest you clone it to c:\git-tools, then 
 add that folder to your PATH, either by using Start > Environment Variables or running just
 ```cmd
-setx /M PATH "%PATH%;C:\gittools"
+setx /M PATH "%PATH%;C:\git-tools"
 ```
 ...then restart any open console windows.
 
