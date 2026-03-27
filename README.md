@@ -1,18 +1,19 @@
 ## Patrick Szalapski's handy Git batch files
 
-To get these scripts working well, I suggest you clone it to c:\gittools, then add that folder to your PATH by running just
+To get these scripts working well, I suggest you clone it to c:\gittools, then 
+add that folder to your PATH, either by using Start > Environment Variables or running just
 ```cmd
 setx /M PATH "%PATH%;C:\gittools"
 ```
+...then restart any open console windows.
 
 Each batch file has comments in it to give you a clue how to use it.
 
 The most useful one is gcp.bat--I use it many times per day.  Here's a brief description of each, in the order of most useful first.
 
-- `gcp`      Git add all, Commit, and Push 
-- `gm`       Git switch to Main and pull
-- `gmm`      Git Merge from Main
+- `gcp`      Git add all, Commit, and Push
 - `gmp`      Git switch to Main and pull
+- `gmm`      Git Merge from Main
 - `gb`       Git create new Branch (from any branch)
 - `gr`       Git Reset current branch to match origin, undoing all local edits
 - `gs`       Git fetch and switch to a branch
