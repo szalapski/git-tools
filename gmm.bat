@@ -1,0 +1,1 @@
+pwsh gmm.ps1 %*

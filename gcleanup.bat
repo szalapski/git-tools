@@ -1,0 +1,1 @@
+pwsh gcleanup.ps1 %*

@@ -1,0 +1,1 @@
+pwsh gmp.ps1 %*
