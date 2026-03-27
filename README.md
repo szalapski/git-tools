@@ -1,5 +1,4 @@
 ## Patrick Szalapski's handy Git batch files
-
 To get these scripts working well, I suggest you clone it to c:\gittools, then 
 add that folder to your PATH, either by using Start > Environment Variables or running just
 ```cmd
