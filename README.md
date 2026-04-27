@@ -19,5 +19,3 @@ The most useful one is gcp.bat--I use it many times per day.  Here's a brief des
 - `gs`       Git fetch and switch to a branch
 - `gac`      Git Add and Commit (without push)
 - `gcleanup` Git deletes the local branches that have already been merged
-
-Note that gmm.bat requires a few [UnxUtils](https://sourceforge.net/projects/unxutils/files/unxutils/current/UnxUtilsSrc.zip/download) to be in your PATH to work.  The rest should work with nothing but standard Windows commands.
