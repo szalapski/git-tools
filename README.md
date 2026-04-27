@@ -1,5 +1,7 @@
 ## Patrick Szalapski's handy Git batch files
 
+Prerequisite: pwsh.exe (Powershell 7, which comes with Windows 11).  Run `pwsh.exe --version` to see if you have it; if not, install it with `.winget install pwsh`.
+
 To get these scripts working well, I suggest you clone it to c:\git-tools, then 
 add that folder to your PATH, either by using Start > Environment Variables or running just
 ```cmd
