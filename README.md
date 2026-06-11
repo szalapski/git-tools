@@ -13,8 +13,8 @@ Each batch file has comments in it to give you a clue how to use it.
 
 The most useful one is gcp.bat--I use it many times per day.  Here's a brief description of each, in the order of most useful first.
 
-- `gcp`      Git add all, Commit, and Push
-- `gmp`      Git switch to Main and pull
+- `gcp`      Git add (stage) all, Commit, and Push
+- `gmp`      Git switch to (checkout) Main and pull
 - `gmm`      Git Merge from Main
 - `gb`       Git create new Branch (from any branch)
 - `gr`       Git Reset current branch to match origin, undoing all local edits
